@@ -9,7 +9,7 @@ Therefore, we re-designed the setup based on the original design.
 ## CAD files
 All CAD files including the assembly are available in [GrabCad repository](https://grabcad.com/library/design-of-chaotic-pendulum-with-a-variable-interaction-potential-1)
 
-![](https://github.com/Khasawneh-Lab/driven_pendulum_with_chaotic_potential/tree/master/figures/assembly.png)
+![](https://https://github.com/Khasawneh-Lab/driven_pendulum_with_chaotic_potential/blob/master/figures/assembly.png)
 
 # Documentation and Scripts
 We provide a [write-up](https://github.com/Khasawneh-Lab/driven_pendulum_with_chaotic_potential/blob/master/Chaotic_Pendulum_Apparatus_Documentation.pdf) that explains the components and how to run the setup properly. 
